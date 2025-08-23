@@ -8,6 +8,7 @@ The process of machine learning involves several key steps, including data colle
 
 <img width="674" height="741" alt="image" src="https://github.com/user-attachments/assets/f5faf072-fbff-478b-94af-fe41026b9562" />
 
-If you want to learn more about it here is the complete blog
-https://medium.com/@aayushipatel135/machine-learning-4b6b3c7ca76b
+<h3 style="color: #333; font-weight: bold;">
+  Want to dive deeper? Check out the full blog <a href="https://medium.com/@aayushipatel135/machine-learning-4b6b3c7ca76b" style="color: #007bff; text-decoration: none;">https://medium.com/@aayushipatel135/machine-learning-4b6b3c7ca76b</a>.
+</h3>
 
