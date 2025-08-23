@@ -1,8 +1,10 @@
-Machine learning is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, a machine learning model identifies patterns in data to make predictions or decisions, such as recognizing faces in photos, filtering spam emails, or recommending products online.
+<h1> Introduction </h1>
 
-There are three main types of machine learning: supervised learning, where models learn from labeled data; unsupervised learning, where models find patterns in unlabeled data; and reinforcement learning, where models learn through trial and error by interacting with an environment. Machine learning powers many modern technologies, from voice assistants to self-driving cars.
+Machine learning is a subfield of artificial intelligence that allows computers to learn from data and improve over time without explicit programming. Instead of relying on predefined rules, machine learning algorithms recognize patterns in data and make predictions or decisions, such as identifying faces in photos, sorting spam emails, or suggesting products based on past behavior.
 
-Machine learning works through a systematic process involving data collection, data preparation, model selection, training, evaluation, and deployment. Here’s a step-by-step breakdown of its working:
+Machine learning is typically divided into three main categories: supervised learning, where models are trained on labeled data; unsupervised learning, where models detect patterns in unlabeled data; and reinforcement learning, where models learn by interacting with their environment and adjusting based on feedback. These techniques power a wide range of technologies, from virtual assistants to autonomous vehicles.
+
+The process of machine learning involves several key steps, including data collection, preparation, model selection, training, evaluation, and deployment. Here's an overview of how the process unfolds:
 
 <img width="674" height="741" alt="image" src="https://github.com/user-attachments/assets/f5faf072-fbff-478b-94af-fe41026b9562" />
 
